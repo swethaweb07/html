@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Introduction</title>
+</head>
+<body style="font-family: Arial; text-align: center; background-color: #f0f8ff;">
+
+  <h1>Hello, I'm Shalu!</h1>
+  <p>I'm a Computer Science student learning AI & ML.  
+     I love coding, digital marketing, and creating fun projects.</p>
+
+  <!-- Button -->
+  <a href="mailto:yourmail@example.com">
+    <button style="padding:10px 20px; font-size:16px;">Contact Me</button>
+  </a>
+
+</body>
+</html>
